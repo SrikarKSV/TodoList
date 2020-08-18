@@ -1,7 +1,9 @@
 # Todo List
 Made a simple Todo list app using JavaScript.
 
+
 Check out the app yourself!: [Todo List](https://gettodolist.netlify.app)
+
 
 ![Screenshot of the app](https://i.imgur.com/wg7OMGZ.png)
 
